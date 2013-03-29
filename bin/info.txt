@@ -1,0 +1,1 @@
+This directory is the target directory for the build of ApplicationCoreShell.
