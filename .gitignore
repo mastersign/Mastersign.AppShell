@@ -1,4 +1,6 @@
-/src/DemoShell/obj
-/src/Mastersign.AppShell/obj
-/bin/Debug
-/bin/Release
+*.suo
+*.cache
+*.user
+
+bin
+obj
